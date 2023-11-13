@@ -1,0 +1,8 @@
+external/
+*.RPP-bak
+
+# CapCut
+Resources/
+.locked
+*.bak
+*.tmp
