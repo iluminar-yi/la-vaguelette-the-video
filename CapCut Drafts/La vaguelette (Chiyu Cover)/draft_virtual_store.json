@@ -1,0 +1,105 @@
+{
+  "draft_materials": [],
+  "draft_virtual_store": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "creation_time": 0,
+          "display_name": "",
+          "filter_type": 0,
+          "id": "",
+          "import_time": 0,
+          "import_time_us": 0,
+          "sort_sub_type": 0,
+          "sort_type": 0
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": [
+        {
+          "child_id": "da0938fd-aad3-472e-bbe7-169e4405df41",
+          "parent_id": ""
+        },
+        {
+          "child_id": "b11c8d80-bdd1-465c-b7c0-be84fcf08e21",
+          "parent_id": ""
+        },
+        {
+          "child_id": "5db12b68-efa4-4b17-93a9-e6f1e2197310",
+          "parent_id": ""
+        },
+        {
+          "child_id": "8ed87b6d-da00-41eb-baea-11b9ecb929f0",
+          "parent_id": ""
+        },
+        {
+          "child_id": "48a1518a-516f-49fa-968b-9d921d22be1c",
+          "parent_id": ""
+        },
+        {
+          "child_id": "982884e4-4167-4311-afc2-ac18bef05756",
+          "parent_id": ""
+        },
+        {
+          "child_id": "ebcbc602-a39a-4bb6-af90-e8805c411b67",
+          "parent_id": ""
+        },
+        {
+          "child_id": "5a993294-b716-4ddf-b078-d0945e455405",
+          "parent_id": ""
+        },
+        {
+          "child_id": "24b7cea7-fc47-4a54-a8dd-848a1704cfdd",
+          "parent_id": ""
+        },
+        {
+          "child_id": "20ff5c42-a2c5-4950-8451-05b6a4360343",
+          "parent_id": ""
+        },
+        {
+          "child_id": "770fccda-8b62-4e39-8cec-2b6ff1b08887",
+          "parent_id": ""
+        },
+        {
+          "child_id": "58ab49f0-752b-4d11-b344-e07e21ad69c5",
+          "parent_id": ""
+        },
+        {
+          "child_id": "877deb33-b733-4c8e-bf53-3f7cef8b12fd",
+          "parent_id": ""
+        },
+        {
+          "child_id": "dc67b191-d40b-466e-bf8e-e3b5c7110660",
+          "parent_id": ""
+        },
+        {
+          "child_id": "9d6d1e0d-d1e4-42d4-95bd-79a0ffde7995",
+          "parent_id": ""
+        },
+        {
+          "child_id": "99b5fee7-6b35-4641-a55b-cf569afb3040",
+          "parent_id": ""
+        },
+        {
+          "child_id": "de68f407-328c-4ae2-b49d-6b8c83683c30",
+          "parent_id": ""
+        },
+        {
+          "child_id": "73414dc6-a5c1-4e3e-8d8c-8e89b09f0375",
+          "parent_id": ""
+        },
+        {
+          "child_id": "d849c75e-44a8-407f-af02-0f4a623942cc",
+          "parent_id": ""
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "value": []
+    }
+  ]
+}
