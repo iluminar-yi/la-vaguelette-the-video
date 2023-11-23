@@ -1,0 +1,233 @@
+{
+  "version": 151,
+  "time": {
+    "meter": [
+      {
+        "index": 0,
+        "numerator": 4,
+        "denominator": 4
+      }
+    ],
+    "tempo": [
+      {
+        "position": 0,
+        "bpm": 110.0
+      }
+    ]
+  },
+  "library": [],
+  "tracks": [
+    {
+      "name": "Vocal",
+      "dispColor": "ff7db235",
+      "dispOrder": 1,
+      "renderEnabled": true,
+      "mixer": {
+        "gainDecibel": 0.0,
+        "pan": 0.0,
+        "mute": false,
+        "solo": false,
+        "display": true
+      },
+      "mainGroup": {
+        "name": "main",
+        "uuid": "27122dd5-d572-4248-b366-32e233e9b16d",
+        "parameters": {
+          "pitchDelta": {
+            "mode": "cubic",
+            "points": []
+          },
+          "vibratoEnv": {
+            "mode": "cubic",
+            "points": []
+          },
+          "loudness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "tension": {
+            "mode": "cubic",
+            "points": []
+          },
+          "breathiness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "voicing": {
+            "mode": "cubic",
+            "points": []
+          },
+          "gender": {
+            "mode": "cubic",
+            "points": []
+          },
+          "toneShift": {
+            "mode": "cubic",
+            "points": []
+          }
+        },
+        "vocalModes": {},
+        "notes": []
+      },
+      "mainRef": {
+        "groupID": "27122dd5-d572-4248-b366-32e233e9b16d",
+        "blickOffset": 0,
+        "pitchOffset": 0,
+        "isInstrumental": false,
+        "systemPitchDelta": {
+          "mode": "cubic",
+          "points": []
+        },
+        "database": {
+          "name": "MEDIUM5\u00b7Chiyu",
+          "language": "mandarin",
+          "phoneset": "xsampa",
+          "languageOverride": "",
+          "phonesetOverride": "",
+          "backendType": "SVR2Standard",
+          "version": "100"
+        },
+        "dictionary": "",
+        "voice": {
+          "vocalModeInherited": true,
+          "vocalModePreset": "",
+          "vocalModeParams": {}
+        },
+        "pitchTakes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "expr": 0.0,
+              "liked": false
+            }
+          ]
+        },
+        "timbreTakes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "expr": 0.0,
+              "liked": false
+            }
+          ]
+        }
+      },
+      "groups": []
+    },
+    {
+      "name": "Instrumental",
+      "dispColor": "ff4794cb",
+      "dispOrder": 0,
+      "renderEnabled": false,
+      "mixer": {
+        "gainDecibel": 0.0,
+        "pan": 0.0,
+        "mute": false,
+        "solo": false,
+        "display": true
+      },
+      "mainGroup": {
+        "name": "main",
+        "uuid": "05aae8ee-9a96-4e7d-86fe-69ec313c2fd5",
+        "parameters": {
+          "pitchDelta": {
+            "mode": "cubic",
+            "points": []
+          },
+          "vibratoEnv": {
+            "mode": "cubic",
+            "points": []
+          },
+          "loudness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "tension": {
+            "mode": "cubic",
+            "points": []
+          },
+          "breathiness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "voicing": {
+            "mode": "cubic",
+            "points": []
+          },
+          "gender": {
+            "mode": "cubic",
+            "points": []
+          },
+          "toneShift": {
+            "mode": "cubic",
+            "points": []
+          }
+        },
+        "vocalModes": {},
+        "notes": []
+      },
+      "mainRef": {
+        "groupID": "05aae8ee-9a96-4e7d-86fe-69ec313c2fd5",
+        "blickOffset": 1808100000,
+        "pitchOffset": 0,
+        "isInstrumental": true,
+        "systemPitchDelta": {
+          "mode": "cubic",
+          "points": []
+        },
+        "audio": {
+          "filename": "external/La vaguelette (Instrumental) [PUA589qIAtM].wav",
+          "duration": 149.520625
+        },
+        "database": {
+          "name": "",
+          "language": "",
+          "phoneset": "",
+          "languageOverride": "",
+          "phonesetOverride": "",
+          "backendType": "",
+          "version": "-2"
+        },
+        "dictionary": "",
+        "voice": {
+          "vocalModeInherited": true,
+          "vocalModePreset": "",
+          "vocalModeParams": {}
+        },
+        "pitchTakes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "expr": 0.0,
+              "liked": false
+            }
+          ]
+        },
+        "timbreTakes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "expr": 0.0,
+              "liked": false
+            }
+          ]
+        }
+      },
+      "groups": []
+    }
+  ],
+  "renderConfig": {
+    "destination": "external",
+    "filename": "La vaguelette (Chiyu Cover)",
+    "numChannels": 1,
+    "aspirationFormat": "noAspiration",
+    "bitDepth": 24,
+    "sampleRate": 48000,
+    "exportMixDown": false,
+    "exportPitch": false
+  }
+}
