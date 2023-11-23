@@ -6,15 +6,14 @@
 
 Links were accessed on 11/16/2023.
 
-This work uses [`synthv-utils`](https://github.com/iluminar-yi/synthv-utils) to facilitate production and
-to prettify the `.s5p` project file to make it more readable and easier to track changes using `git`.
+This work prettifies project files as JSONs to make it more readable and easier to track changes using `git`.
 
 This is a `git` repo, which means you can navigate to a previous version of the project easily.
 I have created tags along this process, so that you can check out the tag and listen to what it sounded like.
 For example:
 
 ```bash
-git checkout add-timbre-params
+git checkout initial-transcription
 ```
 
 The list of tags are visible in multiple places, including
@@ -32,8 +31,10 @@ The following sources were used in this project:
 * Cutscene Animation: "Sinner's Finale" | Genshin Impact: https://www.youtube.com/watch?v=_RAhrisU6Mc
 * GENSHIN IMPACT 4.2 - ARCHON QUEST | Full Game Walkthrough | No Commentary: https://www.youtube.com/watch?v=0nIbouB_Qv8
 * GENSHIN IMPACT 4.1 - ARCHON QUEST | Full Game Walkthrough | No Commentary: https://www.youtube.com/watch?v=i7knR1vT2iw
+* Transcription reference - 简谱】《轻涟》（原神剧情曲《轻涟 La
+  vaguelette》）: https://www.bilibili.com/read/cv27645765 | https://www.bilibili.com/video/BV1me411D7UP
 
-Links were accessed on 11/16/2023.
+Links were accessed on 11/22/2023.
 
 ## Tool Versions
 
