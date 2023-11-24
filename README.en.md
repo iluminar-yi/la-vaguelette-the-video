@@ -29,8 +29,8 @@ The following sources were used in this project:
 * La vaguelette: https://www.youtube.com/watch?v=lm3t3myPspk&list=OLAK5uy_m17jni65pJ-sqYSXGf-YYJ0fzTwe18ZLs&index=1
 * Story Teaser: La vaguelette | Genshin Impact: https://www.youtube.com/watch?v=kglEsR7bqAY
 * Cutscene Animation: "Sinner's Finale" | Genshin Impact: https://www.youtube.com/watch?v=_RAhrisU6Mc
+* 《原神》过场动画-「罪人的终幕」: https://www.bilibili.com/video/BV1vu4y1b7Y9
 * GENSHIN IMPACT 4.2 - ARCHON QUEST | Full Game Walkthrough | No Commentary: https://www.youtube.com/watch?v=0nIbouB_Qv8
-* GENSHIN IMPACT 4.1 - ARCHON QUEST | Full Game Walkthrough | No Commentary: https://www.youtube.com/watch?v=i7knR1vT2iw
 * Transcription reference - 简谱】《轻涟》（原神剧情曲《轻涟 La
   vaguelette》）: https://www.bilibili.com/read/cv27645765 | https://www.bilibili.com/video/BV1me411D7UP
 
@@ -38,6 +38,9 @@ Links were accessed on 11/22/2023.
 
 ## Tool Versions
 
+* CapCut v2.8.0
+* Ultimate Vocal Remover GUI v5.6: https://github.com/Anjok07/ultimatevocalremovergui
+* yt-dlp: https://github.com/yt-dlp/yt-dlp
 * Synthesizer V Studio Pro 1.10.1 | Synthesizer V Engine 2.8.1 on macOS 14.1.1
 * Chiyu ver. 100
 * REAPER v7.05
