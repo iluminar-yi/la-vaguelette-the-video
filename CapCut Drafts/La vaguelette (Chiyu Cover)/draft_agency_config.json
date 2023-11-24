@@ -1,7 +1,59 @@
 {
   "marterials": [
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/La vaguelette [lm3t3myPspk].webm",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Forcalors Apology 01.mp4",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Focalors Farewell.png",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Focalors in Lights.png",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/GENSHIN IMPACT 4.1 - ARCHON QUEST ｜ Full Game Walkthrough ｜ No Commentary [i7knR1vT2iw].webm",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Draft Thumbnail.png",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Version 4.2 ＂Masquerade of the Guilty＂ Trailer ｜ Genshin Impact [1Ip43DfbkUw].webm",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/White Screen.png",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/The Last Chance 02.mp4",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/《原神》过场动画-「罪人的终幕」 p01 《原神》过场动画-「罪人的终幕」 [BV1vu4y1b7Y9_p1].mp4",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Character Demo - ＂Furina： All the World's a Stage＂ ｜ Genshin Impact [EN79SfbcvIE].webm",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Artifact Pose.png",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Struggle 01.mp4",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Mission 01.mp4",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/But Your Wish 01.mp4",
       "use_converter": true
     },
     {
@@ -9,11 +61,15 @@
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Character Teaser - ＂Furina： Member of the Cast＂ ｜ Genshin Impact [aau-c8l5z9c].webm",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/CapCut Drafts/La vaguelette (Chiyu Cover)/851527b26ff64501d9fb44a81cbde1de_1466667.png",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Story Teaser Reversed.mp4",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/La vaguelette [lm3t3myPspk].webm",
+      "use_converter": true
+    },
+    {
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Dance 01.mp4",
       "use_converter": true
     },
     {
@@ -25,51 +81,7 @@
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Black Screen.png",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Accession Speech 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Genshin Impact Screen Recording.mkv",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Story Teaser： La vaguelette ｜ Genshin Impact [kglEsR7bqAY].webm",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/But Your Wish 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Mission 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Forcalors Apology 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Struggle 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Artifact Pose.png",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Dream Trial 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Character Demo - ＂Furina： All the World's a Stage＂ ｜ Genshin Impact [EN79SfbcvIE].webm",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Dance 01.mp4",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Cutscene Animation： ＂Sinner's Finale＂ ｜ Genshin Impact [_RAhrisU6Mc].webm",
       "use_converter": true
     },
     {
@@ -77,39 +89,27 @@
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Cutscene Animation： ＂Sinner's Finale＂ ｜ Genshin Impact [_RAhrisU6Mc].webm",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Dance 02 Reversed.mp4",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Version 4.2 ＂Masquerade of the Guilty＂ Trailer ｜ Genshin Impact [1Ip43DfbkUw].webm",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Dance 02.mp4",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/The Last Chance 02.mp4",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Story Teaser Reversed.mp4",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/White Screen.png",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Character Teaser - ＂Furina： Member of the Cast＂ ｜ Genshin Impact [aau-c8l5z9c].webm",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Focalors in Lights.png",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Furina Accession Speech 01.mp4",
       "use_converter": true
     },
     {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Focalors Farewell.png",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Draft Thumbnail.png",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/The Knave Meeting 01.mp4",
-      "use_converter": true
-    },
-    {
-      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/GENSHIN IMPACT 4.1 - ARCHON QUEST ｜ Full Game Walkthrough ｜ No Commentary [i7knR1vT2iw].webm",
+      "source_path": "/Volumes/Work/dev/la-vaguelette-chiyu-cover/external/Black Screen.png",
       "use_converter": true
     },
     {

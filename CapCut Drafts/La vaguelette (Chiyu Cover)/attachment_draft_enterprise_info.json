@@ -1,10 +1,1 @@
-{
-  "draft_enterprise": {
-    "draft_enterprise_info": {
-      "draft_enterprise_extra": "",
-      "draft_enterprise_id": "",
-      "draft_enterprise_name": ""
-    },
-    "version": 1
-  }
-}
+{"draft_enterprise":{"draft_enterprise_info":{"draft_enterprise_extra":"","draft_enterprise_id":"","draft_enterprise_name":""},"version":1}}
