@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" ttp:timeBase="media" ttp:frameRate="23.976">
+<head xmlns="">
+<metadata>
+<ttm:title/>
+</metadata>
+</head>
+<body>
+<div>
+<p begin="5000" end="8867">
+<text>(Scene 1, Before a Mirror, Furina)</text>
+<translation>（第一幕 镜子前 芙宁娜）</translation>
+</p>
+<p begin="9950" end="16810">
+<text>To accomplish this mission, you will have to stay on the stage for many, many years.</text>
+<translation>为了完成这个任务，你可能会经历漫长的岁月（一直演下去）。</translation>
+</p>
+<p begin="17370" end="27450">
+<text>But, I promise you… all will eventually end in a magnificent and dramatic trial, and everyone will be saved.</text>
+<translation>而我承诺你，一切都会在一场盛大的，如同戏剧般的审判中结束，所有人都会得救</translation>
+</p>
+<p begin="28383" end="35010">
+<text>A trial, huh… How exciting. I'll be looking forward to it.</text>
+<translation>审判吗···真令人兴奋又期待啊。</translation>
+</p>
+<p begin="38100" end="41000">
+<text>(Scene 2, Accession Speech, Furina)</text>
+<translation>（第二幕 就任演说 芙宁娜）</translation>
+</p>
+<p begin="41800" end="55270">
+<text>So long as I, the Archon Focalors, stand within the Opera Epiclese… so long as I stand before the Oratrice… I shall even judge the gods of this world!</text>
+<translation>只要在这欧庇克莱歌剧院，在这谕示裁定枢机之前，我魔神芙卡洛斯，就连世间的诸神都可以审判！</translation>
+</p>
+<p begin="56317" end="59333">
+<text>(Whoops and cheers from the audience)</text>
+<translation>（热烈的掌声和欢呼声——）</translation>
+</p>
+<p begin="61240" end="62550">
+<text>But what about your wish!?</text>
+<translation>那你的愿望呢？！</translation>
+</p>
+<p begin="63633" end="66390">
+<text>My… wish?</text>
+<translation>我的···愿望？</translation>
+</p>
+<p begin="68060" end="76330">
+<text>Hehe, I mean, did you think I would be the sort to enjoy peaceful repose while Furina suffered?</text>
+<translation>呵呵，我可不是那种看着芙宁娜受苦，自己却心安理得地享乐的家伙啊。</translation>
+</p>
+<p begin="77270" end="85790">
+<text>And although she is, in a sense, "me" in human form, I most definitely owe her an apology for it.</text>
+<translation>尽管芙宁娜是人类的「我自己」，但如果还有机会的话，我一定要向「我」好好道歉呢。</translation>
+</p>
+<p begin="87050" end="91190">
+<text>(Scene 3, Opera House, Furina)|Lady Furina, as for the specific parameters you asked us to take note of…|(So interminable…)</text>
+<translation>（第三幕 歌剧院 芙宁娜）
+芙宁娜大人，您要我们留意的那部分参数···
+（好漫长···）</translation>
+</p>
+<p begin="91200" end="95666">
+<text>(Scene 4, Opera House, Furina)|A magnificent, dramatic, and wondrous trial…|(So interminable…)</text>
+<translation>（第四幕 歌剧院 芙宁娜）
+盛大的，如同戏剧般的，（可以终结一切的）美妙审判···
+（好漫长···）</translation>
+</p>
+<p begin="96130" end="99600">
+<text>(Scene 182375, Opera House, Furina)|My Lady? Are… are you crying?|(So lonely…)</text>
+<translation>（第182375幕 歌剧院 芙宁娜）
+芙宁娜大人？您···你是在流泪吗？
+（好孤独···）</translation>
+</p>
+<p begin="100017" end="103233">
+<text>(Just how much longer…)</text>
+<translation>（还要多久···）</translation>
+</p>
+<p begin="103350" end="108783">
+<text>(I want to tell someone, anyone, about this…)</text>
+<translation>（好想要和人倾诉啊，哪怕一个人也好···）</translation>
+</p>
+<p begin="109110" end="112500">
+<text>(Scene 182376, Opera House, Furina, and…)|Furina… You don't have to shoulder this burden alone.</text>
+<translation>（第182376幕 歌剧院 芙宁娜 以及···）
+芙宁娜···或许你真的不需要这样独自支撑。</translation>
+</p>
+<p begin="113200" end="117870">
+<text>Just share it with me. I'm what you'd call a "witness."</text>
+<translation>我是「见证者」，对我倾诉就好。</translation>
+</p>
+<p begin="119990" end="126330">
+<text>No, I have nothing to say. I am Furina, the Archon of Fountaine!</text>
+<translation>没什么，我没什么想倾诉的。我可是神明芙宁娜，一切都会好起来的！</translation>
+</p>
+<p begin="144090" end="147933">
+<text>Thank you, Furina|For all you've done|From this moment on|Please live happily as a human|Just as I wished we could</text>
+<translation>一直以来辛苦你了 芙宁娜
+请如我理想中那样 以人类的身份幸福地活下去吧</translation>
+</p>
+</div>
+</body>
+</tt>

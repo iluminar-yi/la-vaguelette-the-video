@@ -1,5 +1,10 @@
 # La vaguelette (轻涟) Chiyu Cover
 
+For video download,
+see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/video-final-version). For
+subtitle files,
+see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/add-subtitles).
+
 * Vocal: [Chiyu (赤羽)](https://synthv.fandom.com/wiki/Chiyu)
 * Original: https://www.bilibili.com/video/BV1Jg4y197YW
 * Synthesizer V Studio Pro (SynthV): https://dreamtonics.com/synthesizerv/
@@ -40,6 +45,7 @@ Links were accessed on 11/22/2023.
 
 * CapCut v2.8.0
 * Ultimate Vocal Remover GUI v5.6: https://github.com/Anjok07/ultimatevocalremovergui
+* Tero Subtitler v1.0.1.3
 * yt-dlp: https://github.com/yt-dlp/yt-dlp
 * Synthesizer V Studio Pro 1.10.1 | Synthesizer V Engine 2.8.1 on macOS 14.1.1
 * Chiyu ver. 100
