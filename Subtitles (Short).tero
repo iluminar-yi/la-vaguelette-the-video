@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" ttp:timeBase="media" ttp:frameRate="23.976">
+<head xmlns="">
+<metadata>
+<ttm:title/>
+</metadata>
+</head>
+<body>
+<div>
+<p begin="180" end="3570">
+<text>(Scene 182376, Opera House, Furina, and…)|Furina… You don't have to shoulder this burden alone.</text>
+<translation>（第182376幕 歌剧院 芙宁娜 以及···）
+芙宁娜···或许你真的不需要这样独自支撑。</translation>
+</p>
+<p begin="4270" end="8940">
+<text>Just share it with me. I'm what you'd call a "witness."</text>
+<translation>我是「见证者」，对我倾诉就好。</translation>
+</p>
+<p begin="11060" end="17400">
+<text>No, I have nothing to say. I am Furina, the Archon of Fountaine!</text>
+<translation>没什么，我没什么想倾诉的。我可是神明芙宁娜，一切都会好起来的！</translation>
+</p>
+<p begin="35160" end="39003">
+<text>Thank you, Furina|For all you've done|From this moment on|Please live happily as a human|Just as I wished we could</text>
+<translation>一直以来辛苦你了 芙宁娜
+请如我理想中那样 以人类的身份幸福地活下去吧</translation>
+</p>
+</div>
+</body>
+</tt>

@@ -1,9 +1,15 @@
 # La vaguelette (轻涟) Chiyu Cover
 
-For video download,
-see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/video-final-version). For
-subtitle files,
-see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/add-subtitles).
+## Downloads
+
+* Full video:
+  see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/video-final-version).
+* Subtitles for the full video:
+  see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/add-subtitles).
+* YouTube Short with subtitles:
+  see [this release](https://github.com/iluminar-yi/la-vaguelette-chiyu-cover/releases/tag/create-short).
+
+## Intro
 
 * Vocal: [Chiyu (赤羽)](https://synthv.fandom.com/wiki/Chiyu)
 * Original: https://www.bilibili.com/video/BV1Jg4y197YW
